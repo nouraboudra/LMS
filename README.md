@@ -41,6 +41,6 @@ Develop an entity class for library patrons with the following attributes:
 - Spring Data JPA
 - H2 Database
 
-Feel free to customize this template based on your project's specific details and requirements :D
+:D
 
 
